@@ -1,2 +1,2 @@
-# Logica_de_Programacao
-Primeiro repositório
+# Lógica de Programação
+Curso de lógica de programação usando a linguagem Python
