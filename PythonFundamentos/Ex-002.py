@@ -1,5 +1,5 @@
 """
-Programa que recebe o nome de um usuário e mostra a impressão na tela.
+Programa que recebe o nome de um usuário e mostra a impressão do nome na tela.
 Autor:Jules do Nascimento Pires
 Ex:002
 Versão:V1
