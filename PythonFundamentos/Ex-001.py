@@ -1,5 +1,5 @@
 """
-Crie um programa que escreva "Olá, Mundo!" na tela
+Crie um programa que escreva "Olá, Mundo!" na tela para o usuário
 Autor:Jules do Nascimento Pires
 Ex-001
 Versão:V1
