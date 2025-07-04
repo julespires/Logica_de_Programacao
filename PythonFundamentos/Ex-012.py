@@ -21,3 +21,5 @@ r2 = num2 ** num1
 # Resultado
 print("O número {} elevado a {} = {}".format(num1, num2, r1))
 print("O número {} elevado a {} = {}".format(num2, num1, r2))
+
+# Fim
