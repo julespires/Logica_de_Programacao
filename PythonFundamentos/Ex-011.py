@@ -24,3 +24,5 @@ print("O número {} ² = {}".format(num,(num ** 2)))
 print("O número {} ³ = {}".format(num,(num ** 3)))
 print("A raiz quadrada de {} = {}".format(num,(math.sqrt(num))))
 print("A raiz cúbica de {}  = {}".format(num,(math.pow (num, 1/3))))
+
+# Fim
