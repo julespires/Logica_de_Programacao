@@ -5,10 +5,16 @@ brica de um veículo, o percentual de lucro do distribuidor e o percentual de im
 a) o valor correspondente ao lucro do distribuidor;
 b) o valor correspondente aos impostos;
 c) o preço final do veículo.
+Autor:Jules do Nascimento Pires
+Ex:015
+Versão:V1
+Data:04/07/2025
 '''
 
+# Biblioteca
 import os
 
+# Limpa a tela
 os.system('cls')
 
 # Entrada de dados
