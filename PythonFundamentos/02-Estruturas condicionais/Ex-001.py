@@ -6,6 +6,7 @@ Ex:001
 
 import os
 
+# Limpa a tela
 os.system('cls')
 
 # Entrada de dados
