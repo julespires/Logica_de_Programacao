@@ -27,3 +27,4 @@ saldo = salario - cheque1 - cheque2 - cpmf1 - cpmf2
 # Resultado
 print("Seu saldo atual é:", saldo)
 
+# Fim

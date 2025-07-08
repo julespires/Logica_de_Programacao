@@ -23,3 +23,5 @@ quantidadeDegrau = alturaSubir / alturaDegrau
 
 # Resultado
 print("Para atingir seu objetivo, deverá subir {} degraus".format(quantidadeDegrau))
+
+# Fim

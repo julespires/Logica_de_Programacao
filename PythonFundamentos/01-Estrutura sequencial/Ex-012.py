@@ -14,7 +14,7 @@ os.system('cls')
 num1 = float(input("Digite o primeiro valor:"))
 num2 = float(input("Digite o segundo valor:"))
 
-# Cálculo
+# Cálculo dos valores
 r1 = num1 ** num2
 r2 = num2 ** num1
 

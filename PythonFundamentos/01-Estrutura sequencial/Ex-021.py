@@ -12,3 +12,5 @@ escada = altura / math.sin(angulo_radianos)
 
 # Mostrar o resultado
 print(f"O comprimento da escada é: {escada:.2f} metros")
+
+# Fim

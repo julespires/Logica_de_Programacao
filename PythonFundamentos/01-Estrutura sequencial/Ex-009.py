@@ -16,7 +16,7 @@ os.system('cls')
 base = float(input("Base do triângulo:"))
 altura = float(input("Altura do triângulo:"))
 
-# Cálculo
+# Cálculo da área
 area = (base * altura) / 2
 
 # Resultado

@@ -21,3 +21,5 @@ novoSal = sal + sal * 25 / 100
 
 # Resultado
 print("O novo salário com 25% de aumento é R$:", novoSal)
+
+# Fim

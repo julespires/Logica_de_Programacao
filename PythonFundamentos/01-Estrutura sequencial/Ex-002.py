@@ -6,6 +6,8 @@ Versão:V1
 Data:01/07/2025
 """
 
+# Entrada de dados
 nome = input("Qual é o seu nome?")
 
+# Resultado
 print("Olá, {} é um prazer te conhecer!".format(nome))

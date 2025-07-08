@@ -20,3 +20,5 @@ precoFinal = preco - desconto
 
 # Resultado
 print("O produto que custava R$ {} irá custar R$ {} com desconto de 10%".format(preco, precoFinal))
+
+# Fim

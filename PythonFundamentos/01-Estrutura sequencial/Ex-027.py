@@ -20,3 +20,5 @@ mult = num1 * num2 * num3
 
 # Resultado
 print("A multiplicação entre {} * {} * {} =".format(num1, num2, num3, mult))
+
+# Fim

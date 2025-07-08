@@ -20,3 +20,5 @@ media = (nota1 * 2 + nota2 * 3) / (2 + 3)
 
 # Resultado
 print("A média ponderada entre {} e {} = {}".format(nota1, nota2,media))
+
+# Fim

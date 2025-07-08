@@ -26,3 +26,5 @@ totalFinal = pesoSaco * 5 (racaoGato1 + racaoGato2)
 
 # Resultado
 print("O restante de ração no saco após 5 dias será de {}".format(totalFinal))
+
+3 # Fim

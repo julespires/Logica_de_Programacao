@@ -32,3 +32,5 @@ milhas = jardas / 1760
 print("{} pés é igual a {} polegadas ".format(pes, polegadas)) 
 print("{} pés é igual a {} jardas ".format(pes, jardas)) 
 print("{} pés é igual a {} milhas ".format(pes, milhas)) 
+
+# Fim

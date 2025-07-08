@@ -31,3 +31,5 @@ precoFinal = precoFabrica + lucroDistribuidor + percentualImposto
 print("Lucro do distribuidor: R$ {}".format(lucroDistribuidor))
 print("Percentual de imposto: R$ {}".format(valorImposto))
 print("Preço final: R$ {}".format(precoFinal))
+
+# Fim

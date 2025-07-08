@@ -29,3 +29,5 @@ salarioLiquido = valorSalarioBruto - imposto
 
 # Resultado
 print("Salário líquido: R$ {}".format(salarioLiquido))
+
+# Fim

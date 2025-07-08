@@ -16,7 +16,7 @@ os.system('cls')
 # Entrada de dados
 raio = float(input("Valor do raio:"))
 
-#Resultado
+# Cálculo
 area = math.pi * raio ** 2
 
 # Resultado

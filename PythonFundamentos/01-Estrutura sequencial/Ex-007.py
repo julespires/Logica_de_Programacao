@@ -7,13 +7,19 @@ Versão:V1
 Data:01/07/2025
 '''
 
+# Biblioteca
 import os
 
+# Limpa a tela
 os.system('cls')
+
+# Entrada de dados
 sal = float(input("Salário base R$:"))
 
+# Limpa a tela
 os.system('cls')
 
+# Cálculo
 imposto = sal * 10 / 100
 novosal = sal + 50 - imposto
 
