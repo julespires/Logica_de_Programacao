@@ -22,4 +22,4 @@ area = (base * altura) / 2
 # Resultado
 print("O triângulo tem uma área de {}cm".format(area))
 
-# Fim do código
+# Fim
