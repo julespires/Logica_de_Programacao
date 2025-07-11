@@ -22,14 +22,14 @@ media = (nota1 + nota2 + nota3) / 3
 # Condições
 if (media >= 0.0 ) and (media <= 3.0):
 
-    print(" Média = {} Aluno reprovado!".format(media))
+    print(" Média = {:.2f} Aluno reprovado!".format(media))
 
 if(media > 3.0) and (media <= 7.0):
 
-    print(" Média = {} Fazer exame!".format(media))
+    print(" Média = {:.2f} Fazer exame!".format(media))
 
 if (media > 7.0) and (media <= 10.0):
 
-    print("Média = {} Aluno aprovado!".format(media))
+    print("Média = {:.2f} Aluno aprovado!".format(media))
 
 # Fim
